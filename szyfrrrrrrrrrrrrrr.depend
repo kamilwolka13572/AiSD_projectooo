@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1557680010 source:d:\cb_programs\szyfrrrrrrrrrrrrrr\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vigenere_szyfrowanie.h"
+	"Vigenere_deszyfrowanie.h"
+
+1557666426 d:\cb_programs\szyfrrrrrrrrrrrrrr\vinegnere_szyfr.h
+
+1557667478 source:d:\cb_programs\szyfrrrrrrrrrrrrrr\vinegnere_szyfr.c
+	"Vigenere_szyfr.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1557666426 d:\cb_programs\szyfrrrrrrrrrrrrrr\vigenere_szyfr.h
+
+1557679003 d:\cb_programs\szyfrrrrrrrrrrrrrr\vigenere_szyfrowanie.h
+
+1557681739 source:d:\cb_programs\szyfrrrrrrrrrrrrrr\vigenere_szyfrowanie.c
+	"Vigenere_szyfrowanie.h"
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1557679960 d:\cb_programs\szyfrrrrrrrrrrrrrr\vigenere_deszyfrowanie.h
+
+1557681739 source:d:\cb_programs\szyfrrrrrrrrrrrrrr\vigenere_deszyfrowanie.c
+	"Vigenere_deszyfrowanie.h"
+	<stdio.h>
+	<math.h>
+
